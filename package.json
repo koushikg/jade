@@ -51,6 +51,7 @@
     "mkdirp": "~0.5.0",
     "transformers": "2.1.0",
     "uglify-js": "^2.4.19",
+    "fs-extra": "^7.0.1",
     "void-elements": "~2.0.1",
     "with": "~4.0.0"
   },
